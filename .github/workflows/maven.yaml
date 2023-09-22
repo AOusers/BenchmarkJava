@@ -20,4 +20,3 @@ jobs:
       run: mvn spotless:check
     - name: Run unit tests
       run: mvn test
-
